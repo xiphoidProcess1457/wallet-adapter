@@ -1,0 +1,13 @@
+/* This file is not strictly necessary but can be used for additional styling */
+.wallet-adapter-button {
+  background-color: #512da8 !important;
+}
+
+.wallet-adapter-button:not([disabled]):hover {
+  background-color: #311b92 !important;
+}
+
+.wallet-adapter-button-trigger {
+  background-color: #512da8 !important;
+}
+
